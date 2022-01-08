@@ -1,4 +1,10 @@
-# Home Assistant Community Add-on: Portainer
+# ⚠️ USE AT YOUR OWN RISK ⚠️
+
+This is an installable version of the discontinued Portainer addon here: https://github.com/hassio-addons/addon-portainer
+
+Don't use this unless you know what you're doing. No support is provided.
+
+## Home Assistant Community Add-on: Portainer
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -52,31 +58,6 @@ or third-party containers.
 **Home Assistant DOES NOT SUPPORT running third party containers**
 on Home Assistant OS or Supervised installation types. Ignoring this, will
 render your system as unsupported!
-
-## Support
-
-Got questions?
-
-You have several options to get them answered:
-
-- The [Home Assistant Community Add-ons Discord chat server][discord] for add-on
-  support and feature requests.
-- The [Home Assistant Discord chat server][discord-ha] for general Home
-  Assistant discussions and questions.
-- The Home Assistant [Community Forum][forum].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
-
-You could also [open an issue here][issue] GitHub.
-
-## Contributing
-
-This is an active open-source project. We are always open to people who want to
-use the code or contribute to it.
-
-We have set up a separate document containing our
-[contribution guidelines](,github/CONTRIBUTING.md).
-
-Thank you for being involved! :heart_eyes:
 
 ## Authors & contributors
 
