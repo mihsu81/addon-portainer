@@ -1,6 +1,6 @@
 # ⚠️ USE AT YOUR OWN RISK ⚠️
 
-This is an installable version of the discontinued Portainer addon here: https://github.com/hassio-addons/addon-portainer
+This is an installable version of the [discontinued Portainer addon here][original_addon]
 
 Don't use this unless you know what you're doing. No support is provided.
 
@@ -126,3 +126,4 @@ SOFTWARE.
 [releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-portainer.svg
 [releases]: https://github.com/hassio-addons/addon-portainer/releases
 [repository]: https://github.com/hassio-addons/repository
+[original_addon]: https://github.com/hassio-addons/addon-portainer
