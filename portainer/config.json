@@ -1,6 +1,6 @@
 {
   "name": "Portainer",
-  "version": "2.11.0",
+  "version": "dev",
   "slug": "portainer",
   "description": "Manage your Docker environment with ease",
   "url": "https://github.comarjen75/addon-portainer",
